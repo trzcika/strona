@@ -1,2 +1,14 @@
 angular.js
-polymer + material design
+polymer.js + material design
+
+polymer
+http://www.polymer-project.org/
+
+material design
+url
+
+sublime text 
+shortcuts
+  http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_win.html
+
+  
